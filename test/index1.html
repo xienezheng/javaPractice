@@ -1,0 +1,166 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>主页</title>
+<script language="javascript">
+function submit1()
+{
+
+var s1=form1.text1.value;
+var s2=form1.text2.value;
+if(s2.length!=6)
+{
+alert("尊敬的"+s1+",您的密码不正确，请重新输入");
+
+}
+else
+{
+	
+var bool=window.confirm("您确定要登陆吗？");
+if(bool==true)
+{
+	window.close();
+}
+}
+
+
+}
+var n=0;
+function color()
+{
+	var color1=new Array("#FFFF00","#99CCFF");
+	n++;
+	if(n==3)
+	{
+		n=0;
+	}
+	
+		document.bgColor=color1[n];
+	
+		document.fgColor=color1[n-1];
+	
+	
+	
+	setTimeout("color()",1000);
+}
+	color();
+</script>
+
+	
+
+</script>
+</head>
+<style>
+p{
+	font-family:Arial, Helvetica, sans-serif;
+	color:#3F0;
+	font-size:24px;
+	width:300px;
+	height:0px;
+	
+	position:absolute;
+	left:400px;
+	top:30px;
+}
+div
+{
+	font-family:Arial, Helvetica, sans-serif;
+	
+	background-color:#C00;
+	font-size:24px;
+	
+	width:350px;
+	height:250px;
+	
+	position:absolute;
+	left:1005px;
+	top:25px;
+	
+}
+p1{
+	font-family:Arial, Helvetica, sans-serif;
+	color:#3F0;
+	font-size:24px;
+	width:300px;
+	height:300px;
+	
+	position:absolute;
+	left:400px;
+	top:100px;
+}
+
+
+
+
+div1
+{
+	font-family:Arial, Helvetica, sans-serif;
+	
+	background-color:#0C0;
+	font-size:24px;
+	
+	width:350px;
+	height:530px;
+	
+	position:absolute;
+	left:1005px;
+	top:250px;
+	
+}
+
+image
+{
+	width:1000px;
+	height:7500px;
+	
+	position:absolute;
+	left:0px;
+	top:0px;
+	
+}
+</style>
+<body>
+
+<p>　　网工软考报名管理系统</p><br />
+<p1>　　网工简介：中国地质大学（武汉）2015级网络工程系共六十余人，各个身怀绝技，远近闻名。其中有水宝宝，常晓宇等一众院级风流人物，更有林八千牛五千等学霸多枚，他们沐浴在党的恩泽下，奋发图强，艰苦奋斗，正以稳健的脚步迈向新的辉煌......</p1>
+<image src="2.jpg">
+<div>
+<a href="reg22.html">　　　注册</a>
+
+<a href="www.cug.edu.com">　　　校园网</a><br /><br />
+<form action=""method="post"name="form1">
+　　　姓名<br />
+　　　<input type="text"name="text1"><br />
+　　　密码<br />
+　　　<input type="password"name="text2" /><br />
+<a href="index.html">　　　登录</a>
+　　<a href="index3.html">　　重置</a>
+　
+
+
+</form>
+　
+</div>
+<div1>
+<a href="reg11.html">　　　孔浩</a>
+
+<a href="reg2.html">　　　李浩</a><br /><br />
+<a href="reg11.html">　　　姜瑞</a>
+<a href="reg">　　　曾坤</a><br /><br />
+<a href="reg11.html">　　　胡胤</a>
+<a href="reg">　胡杨　　</a><br /><br />
+<a href="reg11.html">　　　王辉</a>
+<a href="reg">　　　徐卓</a><br /><br />
+<a href="reg11.html">　　　万栋</a>
+<a href="reg">　　　夏涵</a><br /><br />
+<a href="reg11.html">　　　王满</a>
+<a href="reg">　　　陈果</a><br /><br />
+<a href="reg11.html">　　　姜睿</a>
+<a href="reg">　　　许卓</a><br /><br />
+<a href="reg11.html">　　　郭昕</a>
+<a href="reg">　　　张鑫</a><br /><br />
+</div1>
+
+</body>
+</html>
