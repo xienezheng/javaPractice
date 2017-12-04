@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<style>
+div
+{
+position:absolution;
+left:10px;
+top:10px;
+width:400px;
+height:100px;
+background:#999999;
+}
+.p1
+{
+position:absolution;
+left:10px;
+top:10px;
+font-size:x-large;
+
+}
+
+</style>
+<body>
+<p class="p1">欢迎使用谢訥铮自主开发的网页计算器</p>
+<div>
+
+<p>*******************************************</p>
+<a href="add.html">加法运算</a>
+<a href="abs.html">减法运算</a>
+<a href="mul.html">乘法运算</a>
+<a href="div.html">除法运算</a>
+<a href="com.html">比较运算</a>
+
+
+<p>*******************************************</p>
+</div>
+</body>
+</html>

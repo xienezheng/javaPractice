@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+<frameset rows="70%,30%">
+  <frame src="tijiao.html" />
+  <frame src="one.jsp" />
+ 
+</frameset>
+
+</body>
+</html>

@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<form action="abs.jsp"method="post">
+<input type="radio"name="onlyone"value="苹果">苹果<br>
+<input type="radio"name="onlyone"value="梨">梨<br>
+<input type="radio"name="onlyone"value="西瓜">西瓜<br>
+</form>
+</body>
+</html>

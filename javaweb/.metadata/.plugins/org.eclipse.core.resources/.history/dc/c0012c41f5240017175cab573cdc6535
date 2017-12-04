@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<style>
+div
+{width:300px;
+height:300px;
+
+position:absolute;
+left:320px;
+top:200px;
+
+}
+
+</style>
+<div>slsdmdsgv</div>
+</body>
+</html>

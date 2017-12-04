@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<form action="div.jsp">
+<p>请输入被除数</p>
+<input type="text"name="one">
+<p>请输入除数</p>
+<input type="text"name="two">
+<input type="submit",value="计算">
+<input type="reset",value="重填">
+</form>
+</body>
+</html>

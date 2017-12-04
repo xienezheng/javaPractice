@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<style>
+p
+{
+position:absoulute;
+top:50px;
+left:200px;
+
+}
+</style>
+<p>请输入信息注册</p>
+</body>
+</html>

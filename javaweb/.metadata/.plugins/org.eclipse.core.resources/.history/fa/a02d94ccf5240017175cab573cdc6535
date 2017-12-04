@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<style>
+div
+{width:300px;
+height:300px;
+
+position:absolute;
+left:320px;
+top:200px;
+
+}
+
+</style>
+<style>
+.p1
+{
+	position:absolute;
+left:30px;
+top:30px;
+width:200px;
+height:200px;
+background-color:#306;
+z-index:2;
+}
+.p2
+{
+position:absolute;
+left:50px;
+top:50px;
+width:200px;
+height:200px;
+background-color:#0F0;
+z-index:-2;
+}
+.p3
+{
+position:absolute;
+left:110px;
+top:110px;
+width:200px;
+height:200px;
+z-index:0;
+background-color:#F0F;
+}
+</style>
+<body>
+<p class="p1">eeeeee</p>
+<p class="p2">eeeeee</p>
+<p class="p3">eeeeee</p>
+<div>那是罚款叫对方年龄荆防颗粒你们非常充分上课吗搜房 </div>
+</body>
+</html>

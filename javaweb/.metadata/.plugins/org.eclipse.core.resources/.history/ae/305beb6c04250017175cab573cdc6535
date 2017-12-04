@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+<style>
+.p1
+{
+	position:absolute;
+left:250px;
+top:15px;
+z-index:2;
+font-size:x-large;
+font-style:normal;
+}
+div
+{
+	position:absolute;
+left:150px;
+top:80px;
+
+}
+img
+{
+position:absolute;
+left:150px;
+top:20px;
+height:80px;
+width:80px;
+}
+div1
+{
+	position:absolute;
+left:150px;
+top:100px;
+
+}
+</style>
+
+
+
+<body>
+<p class="p1">百度</p>
+
+<form>
+<div>
+<input type="text"name="baidu"size=150,rows=150>
+
+</div>
+</form>
+<div1>
+<a herf="www.baidu.com">百度</a>
+</div1>
+
+
+<img src="H://1.jpg"/>
+</body>
+</html>

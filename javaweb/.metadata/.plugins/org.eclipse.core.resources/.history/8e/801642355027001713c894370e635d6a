@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+<frameset cols="50%,25%">
+  <frame src="message.jsp" />
+  <frame src=""talk.jsp" />
+ 
+</frameset>
+</body>
+</html>

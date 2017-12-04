@@ -1,0 +1,17 @@
+127.0.0.1 - - [20/Apr/2017:10:02:17 +0800] "GET / HTTP/1.1" 404 951
+127.0.0.1 - - [20/Apr/2017:10:02:19 +0800] "GET /Calculate/menu.html HTTP/1.1" 200 332
+127.0.0.1 - - [20/Apr/2017:10:04:24 +0800] "GET /Calculate/menu.html HTTP/1.1" 304 -
+127.0.0.1 - - [20/Apr/2017:10:04:45 +0800] "GET /Calculate/menu.html HTTP/1.1" 200 460
+127.0.0.1 - - [20/Apr/2017:10:05:24 +0800] "GET /Calculate/menu.html HTTP/1.1" 304 -
+127.0.0.1 - - [20/Apr/2017:10:05:34 +0800] "GET /Calculate/menu.html HTTP/1.1" 200 453
+127.0.0.1 - - [20/Apr/2017:10:05:56 +0800] "GET /Calculate/menu.html HTTP/1.1" 304 -
+127.0.0.1 - - [20/Apr/2017:10:06:22 +0800] "GET /Calculate/menu.html HTTP/1.1" 200 445
+127.0.0.1 - - [20/Apr/2017:10:08:37 +0800] "GET /Calculate/menu.html HTTP/1.1" 200 438
+127.0.0.1 - - [20/Apr/2017:10:08:46 +0800] "GET /Calculate/menu.html HTTP/1.1" 200 559
+127.0.0.1 - - [20/Apr/2017:10:11:34 +0800] "GET /Calculate/menu.html HTTP/1.1" 304 -
+127.0.0.1 - - [20/Apr/2017:10:11:44 +0800] "GET /Calculate/menu.html HTTP/1.1" 200 710
+127.0.0.1 - - [20/Apr/2017:10:13:13 +0800] "GET /Calculate/menu.html HTTP/1.1" 304 -
+127.0.0.1 - - [20/Apr/2017:10:13:23 +0800] "GET /Calculate/menu.html HTTP/1.1" 200 725
+127.0.0.1 - - [20/Apr/2017:10:13:47 +0800] "GET /Calculate/menu.html HTTP/1.1" 304 -
+127.0.0.1 - - [20/Apr/2017:10:13:53 +0800] "GET /Calculate/menu.html HTTP/1.1" 200 725
+127.0.0.1 - - [20/Apr/2017:11:55:42 +0800] "GET /Calculate/abs.html HTTP/1.1" 404 987

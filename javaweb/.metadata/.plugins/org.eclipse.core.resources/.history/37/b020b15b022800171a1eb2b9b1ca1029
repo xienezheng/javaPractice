@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<style>
+p
+{
+position:absoulute;
+top:50px;
+left:200px;
+
+}
+</style>
+<body>
+
+<p>请输入信息注册</p><br>
+<p>请输入姓名</p>
+<form action="reg.jsp"method="post">
+<input type="text"name="name">
+<p>请输入密码</p>
+<input type="password"name="password1">
+<p>请再次输入密码</p>
+<input type="password"name="password2">
+<br>
+<input type="checkbox"name="sex"value="man">男
+<input type="checkbox"name="sex"value="woman">女
+</form>
+</body>
+</html>

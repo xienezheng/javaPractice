@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<style>
+div
+{
+position:absolution;
+left:10px;
+top:10px;
+width:200px;
+height:200px;
+background:#999999;
+}
+
+</style>
+<body>
+<div>
+<p>*******************************************</p>
+<a href="add.html">加法运算</a>
+<a href="abs.html">减法运算</a>
+<a href="mul.html">乘法运算</a>
+<a href="div.html">除法运算</a>
+<a href="com.html">比较运算</a>
+
+
+<p>*******************************************</p>
+</div>
+</body>
+</html>

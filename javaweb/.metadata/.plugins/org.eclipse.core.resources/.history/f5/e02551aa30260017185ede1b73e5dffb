@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<form action="add.jsp"method="post">
+<p>请输入密码</p>
+<input type="password"name="password">
+<p>请输入备注</p>
+<input type="textarea"name="area"cols="50px"rows="50px">
+</form>
+</body>
+</html>
